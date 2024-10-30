@@ -1,5 +1,5 @@
 ---
-layout: default1
+layout: def
 title: Default
 permalink: /default/
 ---
