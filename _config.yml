@@ -17,4 +17,4 @@ exclude:
   - .github
   - README.md
 
-theme: minima
+theme: default
