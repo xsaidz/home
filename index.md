@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Selamat Datang di Situs Saya
+title: SaiDz.My.ID
 ---
 
 Halo, ini adalah halaman utama dari situs saya yang menggunakan tema default Jekyll!
