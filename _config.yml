@@ -15,5 +15,3 @@ plugins:
 exclude:
   - .github
   - README.md
-
-theme: default
