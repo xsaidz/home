@@ -1,5 +1,5 @@
 ---
-layout: def
+layout: satu
 title: Default
 permalink: /default/
 ---
