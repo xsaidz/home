@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: satu
 title: Tentang Kami
 permalink: /about/
 ---
