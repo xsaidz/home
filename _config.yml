@@ -15,4 +15,5 @@ plugins:
 exclude:
   - .github
   - README.md
-theme: minima
+  
+theme: satu
