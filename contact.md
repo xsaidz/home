@@ -1,6 +1,7 @@
 ---
 layout: satu
 title: Hubungi Kami
+permalink: /contact/
 ---
 
 # Hubungi Kami
